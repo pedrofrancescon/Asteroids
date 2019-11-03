@@ -1,0 +1,12 @@
+name: WWDC18 - Pedro
+identifier: com.pedrofc.wwdc18
+# deployment_target: ios10.0 Optional
+resources: Resources # Optional
+imports: # Optional
+  - UIKit
+  - PlaygroundSupport
+  - SpriteKit
+chapters:
+  - Asteroids
+  - Black Hole
+  - Sun Orbit

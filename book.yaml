@@ -1,0 +1,15 @@
+name: Asteroids
+identifier: com.pedrofrancescon.asteroids
+# resources: cover
+cover: cover.png
+# deployment_target: ios10.0 Optional
+imports:
+ - UIKit
+ - PlaygroundSupport
+ - SpriteKit
+chapters:
+  - name: WWDC18
+    edge_to_edge_live_view: true # defaults to true
+    live_view_mode: "VisibleByDefault" # defaults to "HiddenByDefault"
+# glossary:
+#  term: definition
